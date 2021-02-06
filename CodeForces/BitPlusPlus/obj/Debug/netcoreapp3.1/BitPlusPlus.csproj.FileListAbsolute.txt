@@ -1,0 +1,12 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\bin\Debug\netcoreapp3.1\BitPlusPlus.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\bin\Debug\netcoreapp3.1\BitPlusPlus.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\bin\Debug\netcoreapp3.1\BitPlusPlus.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\bin\Debug\netcoreapp3.1\BitPlusPlus.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\bin\Debug\netcoreapp3.1\BitPlusPlus.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\bin\Debug\netcoreapp3.1\BitPlusPlus.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\obj\Debug\netcoreapp3.1\BitPlusPlus.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\obj\Debug\netcoreapp3.1\BitPlusPlus.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\obj\Debug\netcoreapp3.1\BitPlusPlus.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\obj\Debug\netcoreapp3.1\BitPlusPlus.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\obj\Debug\netcoreapp3.1\BitPlusPlus.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BitPlusPlus\obj\Debug\netcoreapp3.1\BitPlusPlus.genruntimeconfig.cache
