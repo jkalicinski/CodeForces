@@ -1,0 +1,13 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\bin\Debug\netcoreapp3.1\NextRound.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\bin\Debug\netcoreapp3.1\NextRound.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\bin\Debug\netcoreapp3.1\NextRound.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\bin\Debug\netcoreapp3.1\NextRound.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\bin\Debug\netcoreapp3.1\NextRound.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\bin\Debug\netcoreapp3.1\NextRound.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.csprojAssemblyReference.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\NextRound\obj\Debug\netcoreapp3.1\NextRound.genruntimeconfig.cache

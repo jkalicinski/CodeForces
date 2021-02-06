@@ -1,0 +1,13 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.csprojAssemblyReference.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.genruntimeconfig.cache
