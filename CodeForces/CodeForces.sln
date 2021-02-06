@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoPiling", "DominoPilin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPlusPlus", "BitPlusPlus\BitPlusPlus.csproj", "{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetyaAndStrings", "PetyaAndStrings\PetyaAndStrings.csproj", "{7CC64955-B71F-4C6F-8286-A5963814EF40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{362646C4-B9FC-4BCB-B2F7-DBF2ACE57BE9} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{88439B02-65A5-4B4D-8DF8-31A791DAF21C} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA} = {A782B42F-0500-4381-B27A-863E3FF80578}
+		{7CC64955-B71F-4C6F-8286-A5963814EF40} = {A782B42F-0500-4381-B27A-863E3FF80578}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B75D6C8A-915E-4828-85E7-1D22764EE7BA}

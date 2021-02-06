@@ -1,0 +1,13 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\bin\Debug\netcoreapp3.1\PetyaAndStrings.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\bin\Debug\netcoreapp3.1\PetyaAndStrings.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\bin\Debug\netcoreapp3.1\PetyaAndStrings.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\bin\Debug\netcoreapp3.1\PetyaAndStrings.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\bin\Debug\netcoreapp3.1\PetyaAndStrings.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\bin\Debug\netcoreapp3.1\PetyaAndStrings.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.csprojAssemblyReference.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\PetyaAndStrings\obj\Debug\netcoreapp3.1\PetyaAndStrings.genruntimeconfig.cache
