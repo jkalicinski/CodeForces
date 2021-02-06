@@ -1,0 +1,13 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\bin\Debug\netcoreapp3.1\DominoPiling.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\bin\Debug\netcoreapp3.1\DominoPiling.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\bin\Debug\netcoreapp3.1\DominoPiling.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\bin\Debug\netcoreapp3.1\DominoPiling.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\bin\Debug\netcoreapp3.1\DominoPiling.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\bin\Debug\netcoreapp3.1\DominoPiling.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.genruntimeconfig.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\DominoPiling\obj\Debug\netcoreapp3.1\DominoPiling.csprojAssemblyReference.cache
