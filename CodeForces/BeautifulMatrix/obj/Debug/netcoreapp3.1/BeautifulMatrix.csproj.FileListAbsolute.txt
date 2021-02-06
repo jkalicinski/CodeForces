@@ -1,0 +1,12 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\bin\Debug\netcoreapp3.1\BeautifulMatrix.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\bin\Debug\netcoreapp3.1\BeautifulMatrix.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\bin\Debug\netcoreapp3.1\BeautifulMatrix.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\bin\Debug\netcoreapp3.1\BeautifulMatrix.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\bin\Debug\netcoreapp3.1\BeautifulMatrix.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\bin\Debug\netcoreapp3.1\BeautifulMatrix.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\obj\Debug\netcoreapp3.1\BeautifulMatrix.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\obj\Debug\netcoreapp3.1\BeautifulMatrix.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\obj\Debug\netcoreapp3.1\BeautifulMatrix.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\obj\Debug\netcoreapp3.1\BeautifulMatrix.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\obj\Debug\netcoreapp3.1\BeautifulMatrix.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\BeautifulMatrix\obj\Debug\netcoreapp3.1\BeautifulMatrix.genruntimeconfig.cache

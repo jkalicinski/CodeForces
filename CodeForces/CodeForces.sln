@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPlusPlus", "BitPlusPlus\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetyaAndStrings", "PetyaAndStrings\PetyaAndStrings.csproj", "{7CC64955-B71F-4C6F-8286-A5963814EF40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulMatrix", "BeautifulMatrix\BeautifulMatrix.csproj", "{5DF2C441-D93A-42C5-B773-A6526B4C5E03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC64955-B71F-4C6F-8286-A5963814EF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF2C441-D93A-42C5-B773-A6526B4C5E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF2C441-D93A-42C5-B773-A6526B4C5E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF2C441-D93A-42C5-B773-A6526B4C5E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF2C441-D93A-42C5-B773-A6526B4C5E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{88439B02-65A5-4B4D-8DF8-31A791DAF21C} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{7CC64955-B71F-4C6F-8286-A5963814EF40} = {A782B42F-0500-4381-B27A-863E3FF80578}
+		{5DF2C441-D93A-42C5-B773-A6526B4C5E03} = {A782B42F-0500-4381-B27A-863E3FF80578}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B75D6C8A-915E-4828-85E7-1D22764EE7BA}
