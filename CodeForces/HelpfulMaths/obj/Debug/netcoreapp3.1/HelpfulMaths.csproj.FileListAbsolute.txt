@@ -1,0 +1,13 @@
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\bin\Debug\netcoreapp3.1\HelpfulMaths.exe
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\bin\Debug\netcoreapp3.1\HelpfulMaths.deps.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\bin\Debug\netcoreapp3.1\HelpfulMaths.runtimeconfig.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\bin\Debug\netcoreapp3.1\HelpfulMaths.runtimeconfig.dev.json
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\bin\Debug\netcoreapp3.1\HelpfulMaths.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\bin\Debug\netcoreapp3.1\HelpfulMaths.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.csprojAssemblyReference.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.AssemblyInfoInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.AssemblyInfo.cs
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.csproj.CoreCompileInputs.cache
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.dll
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.pdb
+C:\Users\jak0024\source\repos\jkalicinski\CodeForces\CodeForces\HelpfulMaths\obj\Debug\netcoreapp3.1\HelpfulMaths.genruntimeconfig.cache
