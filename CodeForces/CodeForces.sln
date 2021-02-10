@@ -5,23 +5,25 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "800", "800", "{A782B42F-0500-4381-B27A-863E3FF80578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watermelon", "Watermelon\Watermelon.csproj", "{DD543711-57CB-43D0-8781-AC35026E3B08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Watermelon", "Watermelon\Watermelon.csproj", "{DD543711-57CB-43D0-8781-AC35026E3B08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team", "Team\Team.csproj", "{ED0A600C-3379-4468-9916-039DB9ADFD17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Team", "Team\Team.csproj", "{ED0A600C-3379-4468-9916-039DB9ADFD17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WayTooLongWords", "WayTooLongWords\WayTooLongWords.csproj", "{1A09DB99-7D6E-4FC9-BF7D-2E77ED583F62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WayTooLongWords", "WayTooLongWords\WayTooLongWords.csproj", "{1A09DB99-7D6E-4FC9-BF7D-2E77ED583F62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextRound", "NextRound\NextRound.csproj", "{362646C4-B9FC-4BCB-B2F7-DBF2ACE57BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NextRound", "NextRound\NextRound.csproj", "{362646C4-B9FC-4BCB-B2F7-DBF2ACE57BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoPiling", "DominoPiling\DominoPiling.csproj", "{88439B02-65A5-4B4D-8DF8-31A791DAF21C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominoPiling", "DominoPiling\DominoPiling.csproj", "{88439B02-65A5-4B4D-8DF8-31A791DAF21C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPlusPlus", "BitPlusPlus\BitPlusPlus.csproj", "{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitPlusPlus", "BitPlusPlus\BitPlusPlus.csproj", "{5ED3E2AA-4215-4569-AB1A-1BA7F07ADEAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetyaAndStrings", "PetyaAndStrings\PetyaAndStrings.csproj", "{7CC64955-B71F-4C6F-8286-A5963814EF40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetyaAndStrings", "PetyaAndStrings\PetyaAndStrings.csproj", "{7CC64955-B71F-4C6F-8286-A5963814EF40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulMatrix", "BeautifulMatrix\BeautifulMatrix.csproj", "{5DF2C441-D93A-42C5-B773-A6526B4C5E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautifulMatrix", "BeautifulMatrix\BeautifulMatrix.csproj", "{5DF2C441-D93A-42C5-B773-A6526B4C5E03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulMaths", "HelpfulMaths\HelpfulMaths.csproj", "{93F51DAA-A3BC-423E-88A5-8E63877B3BBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpfulMaths", "HelpfulMaths\HelpfulMaths.csproj", "{93F51DAA-A3BC-423E-88A5-8E63877B3BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCapitalization", "WordCapitalization\WordCapitalization.csproj", "{460A4A46-5F0A-499E-B89C-D2BD6BE76B72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,10 @@ Global
 		{93F51DAA-A3BC-423E-88A5-8E63877B3BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93F51DAA-A3BC-423E-88A5-8E63877B3BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93F51DAA-A3BC-423E-88A5-8E63877B3BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460A4A46-5F0A-499E-B89C-D2BD6BE76B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460A4A46-5F0A-499E-B89C-D2BD6BE76B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460A4A46-5F0A-499E-B89C-D2BD6BE76B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460A4A46-5F0A-499E-B89C-D2BD6BE76B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{7CC64955-B71F-4C6F-8286-A5963814EF40} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{5DF2C441-D93A-42C5-B773-A6526B4C5E03} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{93F51DAA-A3BC-423E-88A5-8E63877B3BBA} = {A782B42F-0500-4381-B27A-863E3FF80578}
+		{460A4A46-5F0A-499E-B89C-D2BD6BE76B72} = {A782B42F-0500-4381-B27A-863E3FF80578}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B75D6C8A-915E-4828-85E7-1D22764EE7BA}
