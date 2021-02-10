@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj": {}
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj": {
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj",
+        "projectUniqueName": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj",
         "projectName": "WayTooLongWords",
-        "projectPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj",
+        "projectPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\WayTooLongWords.csproj",
         "packagesPath": "C:\\Users\\jak0024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\obj\\",
+        "outputPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\WayTooLongWords\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jak0024\\AppData\\Roaming\\NuGet\\NuGet.Config",

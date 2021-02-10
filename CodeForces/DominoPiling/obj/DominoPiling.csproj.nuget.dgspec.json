@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj": {}
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj": {
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj",
+        "projectUniqueName": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj",
         "projectName": "DominoPiling",
-        "projectPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj",
+        "projectPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\DominoPiling.csproj",
         "packagesPath": "C:\\Users\\jak0024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\obj\\",
+        "outputPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\DominoPiling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jak0024\\AppData\\Roaming\\NuGet\\NuGet.Config",

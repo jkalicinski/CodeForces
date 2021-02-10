@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj": {}
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj": {
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj",
+        "projectUniqueName": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj",
         "projectName": "PetyaAndStrings",
-        "projectPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj",
+        "projectPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\PetyaAndStrings.csproj",
         "packagesPath": "C:\\Users\\jak0024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\obj\\",
+        "outputPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\PetyaAndStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jak0024\\AppData\\Roaming\\NuGet\\NuGet.Config",

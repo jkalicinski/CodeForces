@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj": {}
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj": {
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj",
+        "projectUniqueName": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj",
         "projectName": "HelpfulMaths",
-        "projectPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj",
+        "projectPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\HelpfulMaths.csproj",
         "packagesPath": "C:\\Users\\jak0024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\obj\\",
+        "outputPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\HelpfulMaths\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jak0024\\AppData\\Roaming\\NuGet\\NuGet.Config",

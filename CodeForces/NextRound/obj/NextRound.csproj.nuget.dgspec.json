@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj": {}
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj": {
+    "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj",
+        "projectUniqueName": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj",
         "projectName": "NextRound",
-        "projectPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj",
+        "projectPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\NextRound.csproj",
         "packagesPath": "C:\\Users\\jak0024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jak0024\\source\\repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\obj\\",
+        "outputPath": "C:\\Users\\jak0024\\Source\\Repos\\jkalicinski\\CodeForces\\CodeForces\\NextRound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jak0024\\AppData\\Roaming\\NuGet\\NuGet.Config",
