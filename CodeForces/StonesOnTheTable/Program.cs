@@ -12,7 +12,7 @@ namespace StonesOnTheTable
             char prev = stones[0];
             int moves = 0;
 
-            for (int i = 1; i < stones.Length; i++)
+            for (int i = 1; i < count; i++)
             {
                 if (prev == stones[i])
                 {
