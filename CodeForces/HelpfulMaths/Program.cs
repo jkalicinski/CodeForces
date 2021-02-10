@@ -46,8 +46,6 @@ namespace HelpfulMaths
                     lst[2] = string.Join('+', lst[2].ToCharArray());
                 }
 
-
-
                 Console.WriteLine(string.Join('+', lst.Where(x => !string.IsNullOrEmpty(x))));
             }
             else
