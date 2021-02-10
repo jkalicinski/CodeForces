@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace HelpfulMaths
 {
@@ -7,21 +8,47 @@ namespace HelpfulMaths
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            int[] numbers;
 
             if (input.Length > 1)
             {
-                int arrayLength = input.Length - (((input.Length + 1) - (input.Length + 1) / 2) - 1);
-                numbers = new int[arrayLength];
-                int index = 0;
+                string[] lst = new string[3];
 
-                for (int i = 0; i < input.Length; i = i + 2)
+                for (int i = 0; i < input.Length; i++)
                 {
-                    numbers[index] = Convert.ToInt32(input[i]);
-                    index++;
+                    switch (input[i])
+                    {
+                        case '1':
+                            lst[0] += input[i];
+                            break;
+                        case '2':
+                            lst[1] += input[i];
+                            break;
+                        case '3':
+                            lst[2] += input[i];
+                            break;
+                        default:
+                            break;
+                    }
+                }
+
+                if (!string.IsNullOrEmpty(lst[0]))
+                {
+                    lst[0] = string.Join('+', lst[0].ToCharArray());
+                }
+
+                if (!string.IsNullOrEmpty(lst[1]))
+                {
+                    lst[01] = string.Join('+', lst[1].ToCharArray());
+                }
+
+                if (!string.IsNullOrEmpty(lst[2]))
+                {
+                    lst[2] = string.Join('+', lst[2].ToCharArray());
                 }
 
 
+
+                Console.WriteLine(string.Join('+', lst.Where(x => !string.IsNullOrEmpty(x))));
             }
             else
             {
