@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCapitalization", "WordC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StonesOnTheTable", "StonesOnTheTable\StonesOnTheTable.csproj", "{ADAAD979-DA25-43E6-AC4D-0183625CBC6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoyOrGirl", "BoyOrGirl\BoyOrGirl.csproj", "{C66CDD47-4867-4325-BB87-A11AB3E5E939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{ADAAD979-DA25-43E6-AC4D-0183625CBC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADAAD979-DA25-43E6-AC4D-0183625CBC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADAAD979-DA25-43E6-AC4D-0183625CBC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66CDD47-4867-4325-BB87-A11AB3E5E939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66CDD47-4867-4325-BB87-A11AB3E5E939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66CDD47-4867-4325-BB87-A11AB3E5E939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66CDD47-4867-4325-BB87-A11AB3E5E939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +99,7 @@ Global
 		{93F51DAA-A3BC-423E-88A5-8E63877B3BBA} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{460A4A46-5F0A-499E-B89C-D2BD6BE76B72} = {A782B42F-0500-4381-B27A-863E3FF80578}
 		{ADAAD979-DA25-43E6-AC4D-0183625CBC6D} = {A782B42F-0500-4381-B27A-863E3FF80578}
+		{C66CDD47-4867-4325-BB87-A11AB3E5E939} = {A782B42F-0500-4381-B27A-863E3FF80578}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B75D6C8A-915E-4828-85E7-1D22764EE7BA}
